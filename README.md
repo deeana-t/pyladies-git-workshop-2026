@@ -6,3 +6,4 @@ Ukazkovy repozitar pre pyladies workshop 2026
 1. bla bla
 2. blabsbalblabbalal
 
+## Robim dalšiu zmenu pre pull
